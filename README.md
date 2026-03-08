@@ -1,6 +1,8 @@
 # Non-Linear Dynamics of Bitcoin and Gold: A Threshold VAR Analysis
 *This R framework models non-linear Bitcoin and Gold dynamics via volatility-driven Threshold Vector Autoregression.*
 
+[**Report (PDF – online)**](https://drive.google.com/file/d/1DNqgTahIn7eaOQKy98IY2fuUVhtC7Eep/view?usp=drive_link)
+
 ---
 
 ## 🎯 Overview
