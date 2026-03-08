@@ -20,6 +20,7 @@ This project analyzes the regime-dependent interdependence between cryptocurrenc
 - **Key Predictors / Features:** Dollar Index, VIX (Volatility Index), MSCI World.
 - **Preprocessing:** Log-returns (multiplied by 100), Stationarity checks (ADF, Phillips-Perron, Zivot-Andrews).
 - **Data Availability:** Public APIs (Yahoo Finance, FRED) and local Excel datasets.
+- **Note:** The file `msci.xlsx` is listed in `.gitignore` because it contains proprietary data.
 
 ---
 
